@@ -1,7 +1,6 @@
 import { useContext, useEffect } from "react";
 import { CartContext } from "../../context/CartContext";
 import { getFirestore, collection, getDocs } from "firebase/firestore";
-import OrderDetail from "./OrderDetail";
 import { Table } from "../Table/Table";
 
 export const OrderList = () => {
