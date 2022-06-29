@@ -1,6 +1,6 @@
-# E-commerce with Firebase and React Router
+# E-commerce with Firebase
 
-Currently without any data in the firebase database.
+Uses React-Router and Context. Currently without any data in the firebase database.
 
 
 
