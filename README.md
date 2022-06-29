@@ -1,4 +1,6 @@
-# E-COMMERCE CON FIREBASE
+# E-commerce with Firebase and React Router
 
-No se utilizan librerias externas. Solo requiere firebase
+Currently without any data in the firebase database.
+
+
 
